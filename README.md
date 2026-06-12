@@ -29,7 +29,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-mgbahurike-12b136301/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
