@@ -55,33 +55,7 @@
 
 ---
 
-## GitHub Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardcreatech&theme=radical&hide_border=true" />
-</p>
-
----
-
-
-
-
-## 🤝 Connect With Me
-
-<p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-mgbahurike-12b136301/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/cardo_likes_to_codes">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
-
-
-
-
----
 
 ## GitHub Stats
 
