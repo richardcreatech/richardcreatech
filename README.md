@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Richard;Full+Stack+Web+Developer;Backend+Learner+%7C+Node+%7C+React+%7C+Python" />
+ Hi I'm Richard
 </h1>
 
 <p align="center">
