@@ -8,8 +8,6 @@
   I love exploring new areas of my creativity and discovering myself by putting myself in areas that take me away from my comfort zone especially when it involves
 </p>
 
----
-
 
 ---
 
