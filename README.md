@@ -11,9 +11,9 @@
 ---
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardcreatech&theme=radical&hide_border=true" />
 </p>
 
