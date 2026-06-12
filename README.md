@@ -5,7 +5,7 @@
 </h2>
 
 <p>
-  I enjoy turning ideas into real-world projects using clean and efficient code.
+  I love exploring new areas of my creativity and discovering myself by putting myself in areas that take me away from my comfort zone especially when it involves
 </p>
 
 ---
