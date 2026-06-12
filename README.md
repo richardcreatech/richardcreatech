@@ -11,6 +11,19 @@
 ---
 
 ## ⚒️ Tech Stack
+
+
+<h2>
+ Hi I'm Richard
+</h2>
+
+<p>
+  I love exploring new areas of my creativity and discovering myself by putting myself in areas that take me away from my comfort zone especially when it involves
+</p>
+
+---
+
+## ⚒️ Tech Stack
 <p >
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <br/>
@@ -38,6 +51,34 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
+
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardcreatech&theme=radical&hide_border=true" />
+</p>
+
+---
+
+
+
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-mgbahurike-12b136301/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/cardo_likes_to_codes">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+
 
 
 ---
