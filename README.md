@@ -4,7 +4,7 @@
  Hi I'm Richard
 </h2>
 
-<p align="center">
+<p>
   I enjoy turning ideas into real-world projects using clean and efficient code.
 </p>
 
